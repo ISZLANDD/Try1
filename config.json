@@ -1,0 +1,56 @@
+{
+    "bot_config": {
+        "server_id": 960588148386201650,
+        "logs": 968100765283545108, 
+        "prefix": "/",
+        "token": "ODg5NTI0OTA1NDU0OTkzNDA4.YUigoA.2EGOVDFxHCb73FIdcbdhp-A6QNk",
+        "twitch_channel": "968100742542000139",
+        "twitch_channel_2": "963025461510811648"
+    },
+    "tfollow": {
+        "vxz": 6500,
+        "british shorthair cat": 2000,
+        "Premium": 1500,
+        "Diamond": 1250,
+        "Gold": 750,
+        "Silver": 350,
+        "Bronze": 150,
+        "Members": 50
+    },
+    "tfriend": {
+        "Owner": 4500,
+        "Premium": 480,
+        "Diamond ": 250,
+        "Gold": 120,
+        "Silver": 50,
+        "Bronze": 25,
+        "Members": 5
+    },
+    "treport": {
+        "Owner": 4500,
+        "Premium": 480,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "Members": 5
+    },
+    "tspam": {
+        "Owner": 4500,
+        "Premium": 2000,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "ttroll": {
+        "Owner": 4500,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "traid": {
+        "Owner": 4500,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    }
+}
